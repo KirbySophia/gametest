@@ -9,6 +9,6 @@ for(var i =0; i<8; i++){
 }
 
 function draw() {
-  background(220);
-	ellipse(10,10,10,10);
+ // background(220);
+	//ellipse(10,10,10,10);
 }
